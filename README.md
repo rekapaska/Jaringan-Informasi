@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Log Mingguan
+    Halo, nama saya Reka Paska Enda dan web ini berfungsi sebagai Log mingguan saya untuk SysProg
+### Week
 
-You can use the [editor on GitHub](https://github.com/rekapaska/Jaringan-Informasi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+- [W1](W1/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
